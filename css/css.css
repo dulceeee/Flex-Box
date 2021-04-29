@@ -1,0 +1,16 @@
+.caja{
+    width: 100%;
+    margin: auto;
+    
+    display: flex;
+}
+
+.caja div{
+    width: 100px;
+    height: 90px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 15px;
+    background-color: #9B7B99;
+}
