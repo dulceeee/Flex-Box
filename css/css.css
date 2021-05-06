@@ -12,5 +12,20 @@
     margin-top: 50px;
     margin-bottom: 50px;
     padding: 15px;
-    background-color: #9B7B99;
+    
+}
+
+.q{
+    background-image:url(../img/c1.png);
+    background-size: cover;
+}
+
+.w{
+    background-image:url(../img/c2.png);
+    background-size: cover;
+}
+
+.e{
+    background-image:url(../img/c3.png);
+    background-size: cover;
 }
